@@ -1,0 +1,19 @@
+{
+  "name": "adapt-hello-worldml",
+  "version": "0.0.4",
+  "homepage": "https://github.com/kalimist123/adapt-hello-worldml",
+  "authors": [
+    "Mick Lennon <kali.mist@gmail.com>"
+  ],
+  "description": "simple helloworld plugin",
+  "main": "/js/helloworld.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "framework": "~2.0.0",
+  "dependencies": {
+    "adapt-contrib-text": "*"
+  }
+}
