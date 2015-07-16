@@ -5,6 +5,7 @@
   "authors": [
     "Mick Lennon <kali.mist@gmail.com>"
   ],
+  "displayName" : "helloworld ml",
   "description": "simple helloworld plugin",
   "main": "/js/helloworld.js",
   "keywords": [
