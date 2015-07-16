@@ -6,6 +6,7 @@
     "Mick Lennon <kali.mist@gmail.com>"
   ],
   "displayName" : "helloworld ml",
+  "component" : "hello-worldml",
   "description": "simple helloworld plugin",
   "main": "/js/helloworld.js",
   "keywords": [
